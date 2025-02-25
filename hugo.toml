@@ -1,5 +1,5 @@
 baseurl = "https://gomezander.github.io"
-title = "Huabing Blog"
+title = "La Campana del Factou"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
